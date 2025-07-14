@@ -153,10 +153,11 @@ See `requirements.txt` for complete list of dependencies:
 
 ### Model Accuracy Comparison
 ```
-XGBoost - MAE: X.XX, R² Score: 0.XX, Accuracy: XX.XX%
-Random Forest - MAE: X.XX, R² Score: 0.XX, Accuracy: XX.XX%
-KNN - MAE: X.XX, R² Score: 0.XX, Accuracy: XX.XX%
-Linear Regression - MAE: X.XX, R² Score: 0.XX, Accuracy: XX.XX%
+Model Comparison Results:
+XGBoost - MAE: 0.27, R² Score: 0.99, Accuracy: 99.45%
+KNN - MAE: 0.09, R² Score: 1.00, Accuracy: 99.82%
+Random Forest - MAE: 0.10, R² Score: 1.00, Accuracy: 99.80%
+Linear Regression - MAE: 1.48, R² Score: 0.71, Accuracy: 97.00%
 ```
 
 ### Subgroup Performance
