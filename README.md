@@ -1,17 +1,17 @@
 # MindEase: Mental Health Data Analysis Project
 
-## 📊 Project Overview
+##  Project Overview
 
 MindEase is a comprehensive data analysis project focused on understanding mental health patterns across different age groups and genders. This project employs machine learning techniques to analyze psychological factors and their relationships with overall mental health scores.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze mental health data across age groups (35-55 and 55+)
 - Compare psychological coping mechanisms between genders
 - Build predictive models for mental health outcomes
 - Visualize correlations between different psychological factors
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 MindEase/
@@ -21,7 +21,7 @@ MindEase/
 └── README.md                   # Project documentation
 ```
 
-## 🔧 Technical Stack
+##  Technical Stack
 
 - **Python 3.10.7**
 - **Data Analysis**: pandas, numpy
@@ -29,7 +29,7 @@ MindEase/
 - **Visualization**: plotly, matplotlib, seaborn
 - **Data Processing**: openpyxl for Excel file handling
 
-## 📈 Key Outputs and Findings
+##  Key Outputs and Findings
 
 ### 1. Demographic Analysis
 - **Age Distribution**: Analysis of participants aged 35+ divided into two groups:
@@ -75,7 +75,7 @@ Performance comparison across different demographic groups:
 - **Gender-based Groups**: Male vs Female
 - **Sample Size Impact**: Analysis of model performance with varying dataset sizes
 
-## 📊 Visualizations Generated
+##  Visualizations Generated
 
 1. **Interactive Bar Charts**: Gender distribution across age groups
 2. **Correlation Heatmaps**: Absolute correlation values between psychological factors
@@ -84,7 +84,7 @@ Performance comparison across different demographic groups:
 5. **Performance Trends**: Model accuracy across different sample sizes
 6. **Pair Plots**: Scatter plot matrices showing relationships between variables
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Psychological Factors
 - Behavioral control shows significant correlation with overall mental health
@@ -101,7 +101,7 @@ Performance comparison across different demographic groups:
 - Gender differences are evident in emotional processing approaches
 - Sample size significantly impacts model reliability
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -141,7 +141,7 @@ See `requirements.txt` for complete list of dependencies:
 - seaborn>=0.12.0
 - openpyxl>=3.1.0
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Deep learning model implementation
 - [ ] Time-series analysis for longitudinal data
@@ -149,7 +149,7 @@ See `requirements.txt` for complete list of dependencies:
 - [ ] Web dashboard for interactive exploration
 - [ ] Model deployment for real-time predictions
 
-## 📊 Sample Output Previews
+##  Sample Output Previews
 
 ### Model Accuracy Comparison
 ```
@@ -168,11 +168,11 @@ Male - MAE: X.XX, R² Score: 0.XX
 Female - MAE: X.XX, R² Score: 0.XX
 ```
 
-## 📄 License
+##  License
 
 This project is for educational and research purposes.
 
-## 👥 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
 
